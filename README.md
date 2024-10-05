@@ -1,28 +1,85 @@
-<h1 align="center">Hi 👋, I'm Hikmat Aliyev</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
+<h2>Hi, I'm <strong>Hikmat Aliyev</strong></h2>
+<hr>
+<h3>I've been interested in programming for about a year</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hikmataliyev059&label=Profile%20views&color=0e75b6&style=flat" alt="hikmataliyev059" /> </p>
+<hr>
 
-- 👀 Java enthusiast diving into web development
-- 🌱 I’m currently learning **Java**
-- 💞 Let's create something awesome together!
-- ⚡ Fun fact **I thrive on solving tough coding challenges!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://linkedin.com/in/hikmat-aliyev-5959trt" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+<h2> 🚀 Connect with Me</h2>
+<a href="https://www.linkedin.com/in/hikmat-aliyev-5959trt/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
+
+## 🔥 Streak stats
+
+<p align="center">
+  <a href="https://github.com/hikmataliyev059">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hikmataliyev059's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmataliyev059&theme=monokai-metallian&hide_border=true"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmataliyev059&show_icons=true&locale=en&layout=compact&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="hikmataliyev059" /></p>
+## 🛠️ My Tools
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmataliyev059&show_icons=true&locale=en&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="hikmataliyev059" /></p>
+### 👨‍💻 Programming languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmataliyev059&theme=default&background=0D1117&currStreakLabel=38bdae&sideNums=70a5fd&sideLabels=38bdae&dates=38bdae&stroke=bf91f3&ring=70a5fd&fire=70a5fd&currStreakNum=70a5fd" alt="hikmataliyev059" /></p>
+<p>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=plastic"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=plastic"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic"></a>
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a> 
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="MSSql" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Access" src ="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-3F51B5?style=for-the-badge&logoColor=white" width="100" height="20"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" 
+    width="100" height="20"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft- excel&logoColor=white&style=plastic"></a>
+     <a href="#"><img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft- visio&logoColor=white&style=plastic"></a>
+    <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft- powerpoint&logoColor=white&style=plastic"></a>
+    
+</p>
 
 
+## 📊 Github stats
+
+  <br/>
+    <a href="#"><img alt="hikmataliyev059's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hikmataliyev059&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="#"><img alt="hikmataliyev059's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmataliyev059&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
